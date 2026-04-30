@@ -26,7 +26,6 @@ d = 3
 print(not False)
 print(not (a > b))
 
-
 val1 = True
 val2 = False
 print(val1 and val2)
@@ -35,15 +34,15 @@ print(val1 or val2)
 
 # Type Conversion
 
-#Implicit Conversion
+# Implicit Conversion
 c = 4
 d = 5.65
 print(c + d)
 
 print(type(a))
 
-# Typecasting
+# Typecasting :- Manually
 
 e = int("2")
 f = 4.25
-print(e+f)
+print(e + f)
