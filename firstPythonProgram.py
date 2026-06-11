@@ -46,3 +46,11 @@ print(type(a))
 e = int("2")
 f = 4.25
 print(e + f)
+
+
+# Input
+age3 = int(input("age"))
+marks = float(input("marks"))
+
+print(age3)
+print(marks)
