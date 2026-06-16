@@ -57,3 +57,10 @@ for val in num :
 # Range
 for el in range(1,6,2):
     print(el)
+
+
+sum = 0
+m = 7
+for c in range(1,m+1):
+    sum+=c
+    print(sum)
